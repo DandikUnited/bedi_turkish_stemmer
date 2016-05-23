@@ -1,0 +1,1 @@
+# bedi_turkish_stemmer
